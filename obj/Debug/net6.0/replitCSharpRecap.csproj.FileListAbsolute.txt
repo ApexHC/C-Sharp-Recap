@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\replitCSharpRecap.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\replitCSharpRecap.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\replitCSharpRecap.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\replitCSharpRecap.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\ref\replitCSharpRecap.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\bin\Debug\net6.0\replitCSharpRecap.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\ref\replitCSharpRecap.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\csharpRecap\csharpRecap\replitCSharpRecap\obj\Debug\net6.0\replitCSharpRecap.genruntimeconfig.cache
